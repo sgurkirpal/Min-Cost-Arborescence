@@ -6,4 +6,4 @@ Given a digraph G = (V. F) and a root r in V, an arborescence (rooted at r) is a
 
 ## Edmonds Branching Algorithm
 
-![image](https://user-images.githubusercontent.com/58677568/119302705-3079ef80-bc82-11eb-9267-7e357cc33b41.png)
+![image](https://user-images.githubusercontent.com/58677568/119302820-60c18e00-bc82-11eb-81c4-4409add7a474.png)
